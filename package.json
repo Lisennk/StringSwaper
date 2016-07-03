@@ -1,6 +1,6 @@
 {
   "name": "string-swaper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple module to swap substrings in string, written in TypeScript",
   "main": "src/StringSwaper.ts",
   "directories": {
