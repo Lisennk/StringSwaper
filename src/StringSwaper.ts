@@ -1,7 +1,7 @@
 /**
  * Class that allow us to swap substrings in string
  */
-class StringSwaper {
+export default class StringSwaper {
     /**
      * Swaps substrings 'a' and 'b' in string 'context'
      * @param a Substring that we need to replace with second substring

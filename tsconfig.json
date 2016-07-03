@@ -2,5 +2,8 @@
     "compilerOptions": {
         "outFile": "dist/StringSwaper.js"
 
-    }
+    },
+    "exclude": [
+        "examples"
+    ]
 }
