@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "outFile": "dist/StringSwaper.js"
+
+    }
+}
