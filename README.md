@@ -1,5 +1,6 @@
-# TypeScript String Swaper :candy:
-[![npm version](https://badge.fury.io/js/string-swaper.svg)](https://badge.fury.io/js/string-swaper)
+# :candy: String Swaper :candy:
+[![npm version](https://badge.fury.io/js/string-swaper.svg)](https://www.npmjs.com/package/string-swaper)
+[![npm downloads](https://img.shields.io/npm/dm/string-swaper.svg?maxAge=2592000)](https://www.npmjs.com/package/string-swaper)
 ## Installation and usage
 "StringSwaper" it's a simple library to swap substrings in string, written in TypeScript and available via [NPM](https://www.npmjs.com/package/string-swaper) and as [compiled JS](https://github.com/Lisennk/StringSwaper/tree/master/dist). 
 
