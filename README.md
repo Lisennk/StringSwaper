@@ -2,7 +2,7 @@
 [![npm version](https://badge.fury.io/js/string-swaper.svg)](https://www.npmjs.com/package/string-swaper)
 [![npm downloads](https://img.shields.io/npm/dm/string-swaper.svg?maxAge=2592000)](https://www.npmjs.com/package/string-swaper)
 ## Installation and usage
-"StringSwaper" it's a simple library to swap substrings in string, written in TypeScript and available as [compiled JavaScript](https://github.com/Lisennk/StringSwaper/tree/master/dist) and via via [NPM](https://www.npmjs.com/package/string-swaper):
+"StringSwaper" it's a simple library to swap substrings in string, written in TypeScript and available as [compiled JavaScript](https://github.com/Lisennk/StringSwaper/tree/master/dist) and via [NPM](https://www.npmjs.com/package/string-swaper):
 ```
 npm install string-swaper
 ```
